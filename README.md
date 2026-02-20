@@ -112,7 +112,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/MubashirShafique/Movie-Recommender-System.git>
 cd Movie-Recommender-System
 ```
 
@@ -197,7 +197,7 @@ Feel free to fork this repository and improve it. Contributions are always welco
 
 ---
 
-## 📌 Author
+##  Author
 
 **Muhammad Mubashir Shafique (Gamma)**
-BS Computer Science Student | AI Enthusiast 🚀
+BS Computer Science Student 
