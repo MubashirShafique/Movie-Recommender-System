@@ -199,5 +199,5 @@ Feel free to fork this repository and improve it. Contributions are always welco
 
 ##  Author
 
-**Muhammad Mubashir Shafique (Gamma)**
+**Muhammad Mubashir Shafique**
 BS Computer Science Student 
