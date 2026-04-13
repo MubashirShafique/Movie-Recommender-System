@@ -3,6 +3,12 @@
 An end-to-end **AI-powered Movie Recommendation System** that suggests similar movies based on user selection using **Content-Based Filtering**.
 
 ---
+##  Preview
+
+Below is the homepage of the application:
+
+![Home Page](Picture_of_Home_Page.png)
+---
 
 ##  Project Goal
 
@@ -182,13 +188,6 @@ Main libraries used:
 * Use **Deep Learning (NLP embeddings)**
 * Deploy on cloud (Streamlit Cloud / AWS)
 
----
-
-##  Preview
-
-Below is the homepage of the application:
-
-![Home Page](Picture_of_Home_Page.png)
 ---
 
 ##  Contribution
