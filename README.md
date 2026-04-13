@@ -5,9 +5,16 @@ An end-to-end **AI-powered Movie Recommendation System** that suggests similar m
 ---
 ##  Preview
 
-Below is the homepage of the application:
+### Below is the homepage of the application:
 
 ![Home Page](Picture_of_Home_Page.png)
+
+---
+---
+
+### Prediction Result 
+
+![Home Page](6_.png)
 ---
 
 ##  Project Goal
