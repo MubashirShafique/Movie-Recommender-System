@@ -1,6 +1,6 @@
 #  Movie Recommender System (Content-Based)
 
-An end-to-end **AI-powered Movie Recommendation System** that suggests similar movies based on user selection using **Content-Based Filtering**.
+An end to end **AI-powered Movie Recommendation System** that suggests similar movies based on user selection using **Content-Based Filtering**.
 
 ---
 ##  Preview
